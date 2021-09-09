@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="ссылка на видео"><img src="https://github.com/TrashRobotics/BalancingRobot/blob/main/img/bbot.jpg" alt="Автоматическая неваляшка" width="200"></a>
+  <a href="ссылка на видео"><img src="https://github.com/TrashRobotics/BalancingRobot/blob/main/img/bbot.jpg" alt="Автоматическая неваляшка" width="800"></a>
   <br>
   Балансирующий робот на NodeMCU
   <br>
@@ -32,10 +32,10 @@
 * макетная плата 4x6 см (по желанию);
 * детали корпуса (добавить ссылку на модели stl)
 
-[![Основные детали](https://github.com/TrashRobotics/BalancingRobot/blob/main/img/parts.jpg)]
+![Основные детали](https://github.com/TrashRobotics/BalancingRobot/blob/main/img/parts.jpg)
 
 # Схема подключения
-[![Схема подключения](https://github.com/TrashRobotics/BalancingRobot/blob/main/img/schematic.jpeg)]
+![Схема подключения](https://github.com/TrashRobotics/BalancingRobot/blob/main/img/schematic.jpeg)
 
 # Установка и прошивка
 Для компиляции скетча нужно установить следующие библиотеки:
@@ -45,11 +45,11 @@
 * [Ultrasonic](https://github.com/ErickSimoes/Ultrasonic);
 * [ThingPulse SSD1306](https://github.com/ThingPulse/esp8266-oled-ssd1306);
 
-Библиотеки устанавливаются переходом по ссылкам и нажатием **Code->Download ZIP**.
+Библиотеки устанавливаются переходом по ссылкам и нажатием **Code->Download ZIP**.            
 В Arduino IDE **Скетч->Подключить библиотеку->Добавить .ZIP библиотеку...**
 
 После этого скачиваем директорию balancing_robot и кладем ее в рабочее пространство Arduino IDE.
-(sources.h должно лежать в одной папке со скетчем).
+(sources.h должен лежать в одной папке со скетчем).
 
 Компилируем и прошиваем.
 

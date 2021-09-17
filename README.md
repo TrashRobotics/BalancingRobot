@@ -30,7 +30,7 @@
 * 2x HC-SR04 датчики расстояния;
 * тумблер KCD1-11;
 * макетная плата 4x6 см (по желанию);
-* [детали корпуса](https://www.thingiverse.com/thing:4967128)
+* [детали корпуса](https://www.thingiverse.com/thing:4967139)
 
 ![Основные детали](https://github.com/TrashRobotics/BalancingRobot/blob/main/img/parts.jpg)
 

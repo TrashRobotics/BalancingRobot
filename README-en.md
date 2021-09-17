@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="link to video"><img src="https://github.com/TrashRobotics/BalancingRobot/blob/main/img/bbot.jpg" alt="Automatic tumbler" width="800"></a>
+  <a href="https://youtu.be/ZRSPSNteWiU"><img src="https://github.com/TrashRobotics/BalancingRobot/blob/main/img/bbot.jpg" alt="Automatic tumbler" width="800"></a>
   <br>
   Self-balancing robot based on NodeMCU
   <br>
@@ -28,7 +28,7 @@ Self-balancing robot for fun is capable of:
 * 2x HC-SR04 distance sensors;
 * toggle switch KCD1-11;
 * breadboard 4x6 см (if you'd like);
-* body parts (добавить ссылку на модели stl) 
+* [body parts](https://www.thingiverse.com/thing:4967139)
 
 ![Main parts](https://github.com/TrashRobotics/BalancingRobot/blob/main/img/parts.jpg)
 

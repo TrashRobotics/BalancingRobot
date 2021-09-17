@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="ссылка на видео"><img src="https://github.com/TrashRobotics/BalancingRobot/blob/main/img/bbot.jpg" alt="Автоматическая неваляшка" width="800"></a>
+  <a href="https://youtu.be/ZRSPSNteWiU"><img src="https://github.com/TrashRobotics/BalancingRobot/blob/main/img/bbot.jpg" alt="Автоматическая неваляшка" width="800"></a>
   <br>
   Балансирующий робот на NodeMCU
   <br>
@@ -30,7 +30,7 @@
 * 2x HC-SR04 датчики расстояния;
 * тумблер KCD1-11;
 * макетная плата 4x6 см (по желанию);
-* детали корпуса (добавить ссылку на модели stl)
+* [детали корпуса](https://www.thingiverse.com/thing:4967128)
 
 ![Основные детали](https://github.com/TrashRobotics/BalancingRobot/blob/main/img/parts.jpg)
 
